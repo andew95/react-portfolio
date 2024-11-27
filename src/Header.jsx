@@ -1,11 +1,11 @@
 import { Popover, PopoverGroup, } from '@headlessui/react'
 
-const navigation = [
-    { name: 'Product', href: '#' },
-    { name: 'Features', href: '#' },
-    { name: 'Marketplace', href: '#' },
-    { name: 'Company', href: '#' },
-]
+// const navigation = [
+//     { name: 'Product', href: '#' },
+//     { name: 'Features', href: '#' },
+//     { name: 'Marketplace', href: '#' },
+//     { name: 'Company', href: '#' },
+// ]
 
 function Header() {
     return (

@@ -16,6 +16,11 @@ function Skill() {
             id: 3,
             name: "PostgreSQL",
             imageSrc: "icon/postgresql.png"
+        },
+        {
+            id: 4,
+            name: "MongoDB",
+            imageSrc: "icon/mongodb.png",
         }
     ]
     return (

@@ -22,9 +22,9 @@ function History() {
         {
             id: 3,
             position: "Programmer",
-            company: "Blishtech",
-            startDate: "2022",
-            endDate: "2018",
+            company: "Blishtech (Branch Company of INET)",
+            startDate: "2019",
+            endDate: "2022",
             description: "Developed API base on PHP language the features include login, CRUD data into MongoDB, image processing, (imagine library), upload file, send email (Gmail), database design, write a document and co-develop a Golang backend responsibly to created features aka login, CRUD data into a MongoDB "
         },
         {
@@ -32,7 +32,7 @@ function History() {
             position: "Software Engineer",
             company: "INET",
             startDate: "2018",
-            endDate: "2022",
+            endDate: "2019",
             description: "Web Automate/Manual Test, write python script to monitor VM resources (CPU, RAM), responsibly to developed ERP software (ASP.NET, C#), fix defect, change logic, edit frontend"
         }
     ];
